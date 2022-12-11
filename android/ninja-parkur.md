@@ -29,4 +29,5 @@ Bir güvenlik açığı bulursanız veya uygulamanın gizliliğinizi nasıl koru
 Saygılarımla,  
 Mehmet Yasin Kanak  
 Antalya, Türkiye
-anahtarfikir@icloud.com
+
+Mail: anahtarfikir@icloud.com
