@@ -4,7 +4,7 @@ Google Play Store'da yayınlanan Ninja Parkur oyununun gizlilik sözleşmesini g
 
 Bu, Anahtar Fikir tarafından geliştirilen bir Android uygulamasıdır.
 
-İmtiyaz sahibi (Mehmet Yasin Kanak) olarak, bu uygulamayı herhangi bir bilgi toplamak için programlamadığımı beyan ederim. Siz (kullanıcı) tarafından oluşturulan tüm veriler, yalnızca cihazınızda saklanır ve uygulamanın verilerini temizleyerek veya uygulamayı kaldırarak kolayca silinebilir.
+İmtiyaz sahibi (Mehmet Yasin Kanak) olarak, bu uygulamayı herhangi bir kişisel veri toplamak için programlamadığımı beyan ederim. Siz (kullanıcı) tarafından oluşturulan tüm veriler, yalnızca cihazınızda saklanır ve uygulamanın verilerini temizleyerek veya uygulamayı kaldırarak kolayca silinebilir. Bunun dışında tercihinize bağlı olarak kişiselleştirilmiş reklamlar görmeyi seçebilirsiniz. Bu reklamların gösteriminde kullanılmak üzere toplanan kişisel veriler, bizlerden bağımsız olarak reklam ağları tarafından işlenmektedir. Uygulamayı yüklediğinizde karşınıza ilk çıkan panelden kişiselleştirilmiş reklamlar özelliğini kullanmak isteyip istemediğinizi belirleyebilirsiniz.
 
 ### Uygulamada istenen izinlerin açıklaması
 
